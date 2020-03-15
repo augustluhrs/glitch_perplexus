@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+}
+.button {
+  background-color: rgb(161, 0, 113); 
+  border: black;
+  border-style: solid;
+  color: white;
+  padding: 30px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

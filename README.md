@@ -1,1 +1,4 @@
-# glitch_perplexus
+Android Sensor Demo
+=================
+
+
